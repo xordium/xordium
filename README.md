@@ -1,4 +1,4 @@
-### Hi there 👋
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phishontop&show_icons=true&locale=en&layout=compact&theme=dark" alt="xordium" /></p>
 
 <!--
 **xordium/xordium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
